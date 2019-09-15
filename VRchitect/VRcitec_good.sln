@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRcitec_good.Plugins", "VRcitec_good.Plugins.csproj", "{2EABD302-284F-0E79-2A37-5227C462407D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRcitec_good", "VRcitec_good.csproj", "{BA1610EA-0D1D-1517-C7DD-A5A5A164EF69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRcitec_good.Editor", "VRcitec_good.Editor.csproj", "{322E6533-C5F4-B661-35B3-E764E703770E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EABD302-284F-0E79-2A37-5227C462407D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EABD302-284F-0E79-2A37-5227C462407D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EABD302-284F-0E79-2A37-5227C462407D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EABD302-284F-0E79-2A37-5227C462407D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1610EA-0D1D-1517-C7DD-A5A5A164EF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1610EA-0D1D-1517-C7DD-A5A5A164EF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1610EA-0D1D-1517-C7DD-A5A5A164EF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1610EA-0D1D-1517-C7DD-A5A5A164EF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322E6533-C5F4-B661-35B3-E764E703770E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322E6533-C5F4-B661-35B3-E764E703770E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322E6533-C5F4-B661-35B3-E764E703770E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322E6533-C5F4-B661-35B3-E764E703770E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

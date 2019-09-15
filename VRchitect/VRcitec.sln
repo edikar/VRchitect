@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F2C4C2E8-2BD3-7164-4B83-FA299EC9137F}") = "VRcitec", "Assembly-CSharp-firstpass.csproj", "{EE71F480-BE6A-9198-4799-5A56AF6B5633}"
+EndProject
+Project("{F2C4C2E8-2BD3-7164-4B83-FA299EC9137F}") = "VRcitec", "Assembly-CSharp.csproj", "{AD7D1B7A-9820-C799-B632-031F455FA495}"
+EndProject
+Project("{F2C4C2E8-2BD3-7164-4B83-FA299EC9137F}") = "VRcitec", "Assembly-CSharp-Editor.csproj", "{7362726A-F4BA-EECE-388F-40E45EBF37CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE71F480-BE6A-9198-4799-5A56AF6B5633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE71F480-BE6A-9198-4799-5A56AF6B5633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE71F480-BE6A-9198-4799-5A56AF6B5633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE71F480-BE6A-9198-4799-5A56AF6B5633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7D1B7A-9820-C799-B632-031F455FA495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7D1B7A-9820-C799-B632-031F455FA495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7D1B7A-9820-C799-B632-031F455FA495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7D1B7A-9820-C799-B632-031F455FA495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7362726A-F4BA-EECE-388F-40E45EBF37CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7362726A-F4BA-EECE-388F-40E45EBF37CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7362726A-F4BA-EECE-388F-40E45EBF37CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7362726A-F4BA-EECE-388F-40E45EBF37CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

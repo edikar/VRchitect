@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Vrchitect 22.2.17.unity
+  isLoaded: 1
+  isActive: 1
